@@ -47,10 +47,6 @@ Durante o desenvolvimento deste projeto, foram praticados:
 
 ---
 
-## 📷 Preview do projeto
-
----
-
 ## 📌 Melhorias futuras
 
 * Tornar o layout totalmente responsivo 📱
